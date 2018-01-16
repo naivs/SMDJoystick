@@ -1,0 +1,13 @@
+db 1 : d2 : a0 - orn
+db 2 : d3 : a1 - gr
+db 3 : d4 : a2 - gr
+db 4 : d5 : a3 - bl
+db 5 : vcc 
+db 6 : d6 : a4 - bl
+db 7 : d7 : a5 - br
+db 8 : gnd
+db 9 : d8 : d9 - r
+
+7 digital for 1 pad
+
+
